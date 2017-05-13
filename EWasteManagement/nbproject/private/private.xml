@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Harshad%200509/Documents/NetBeansProjects/EWasteManagement/src/com/ewaste/business/organization/Organization.java</file>
+            <file>file:/C:/Users/Harshad%200509/Documents/NetBeansProjects/EWasteManagement/src/com/ewaste/ui/administrativerole/ManageEmployeeJPanel.java</file>
+            <file>file:/C:/Users/Harshad%200509/Documents/NetBeansProjects/EWasteManagement/src/com/ewaste/business/role/ExtractorRole.java</file>
+            <file>file:/C:/Users/Harshad%200509/Documents/NetBeansProjects/EWasteManagement/src/com/ewaste/ui/extraction/ExtractionWorkAreaPanel.java</file>
+            <file>file:/C:/Users/Harshad%200509/Documents/NetBeansProjects/EWasteManagement/src/com/ewaste/ui/userworkarea/ManageOrdersPanel.java</file>
+            <file>file:/C:/Users/Harshad%200509/Documents/NetBeansProjects/EWasteManagement/src/com/ewaste/ui/extraction/ExtractionNewTaskPanel.java</file>
+            <file>file:/C:/Users/Harshad%200509/Documents/NetBeansProjects/EWasteManagement/src/com/ewaste/ui/userworkarea/BuyEwastePanel.java</file>
+            <file>file:/C:/Users/Harshad%200509/Documents/NetBeansProjects/EWasteManagement/src/com/ewaste/ui/userworkarea/ViewProductDetailsPanel.java</file>
+            <file>file:/C:/Users/Harshad%200509/Documents/NetBeansProjects/EWasteManagement/src/com/ewaste/ui/systemadminworkarea/ManageEnterpriseAdminJPanel.java</file>
+            <file>file:/C:/Users/Harshad%200509/Documents/NetBeansProjects/EWasteManagement/src/com/ewaste/ui/extraction/ExtractionResultPanel.java</file>
+            <file>file:/C:/Users/Harshad%200509/Documents/NetBeansProjects/EWasteManagement/src/com/ewaste/business/network/RegionNode.java</file>
+            <file>file:/C:/Users/Harshad%200509/Documents/NetBeansProjects/EWasteManagement/src/com/ewaste/ui/administrativerole/AdminWorkAreaJPanel.java</file>
+            <file>file:/C:/Users/Harshad%200509/Documents/NetBeansProjects/EWasteManagement/src/com/ewaste/ui/systemadminworkarea/ManageEnterpriseJPanel.java</file>
+            <file>file:/C:/Users/Harshad%200509/Documents/NetBeansProjects/EWasteManagement/src/com/ewaste/business/enterprise/ManufacturerEnterprise.java</file>
+            <file>file:/C:/Users/Harshad%200509/Documents/NetBeansProjects/EWasteManagement/src/com/ewaste/ui/systemadminworkarea/ManageNetworkJPanel.java</file>
+            <file>file:/C:/Users/Harshad%200509/Documents/NetBeansProjects/EWasteManagement/src/com/ewaste/business/helper/MyComponent.java</file>
+            <file>file:/C:/Users/Harshad%200509/Documents/NetBeansProjects/EWasteManagement/src/com/ewaste/ui/manufacturer/ManufacturerAcceptRequestPanel.java</file>
+            <file>file:/C:/Users/Harshad%200509/Documents/NetBeansProjects/EWasteManagement/src/com/ewaste/ui/systemadminworkarea/SystemAdminWorkAreaJPanel.java</file>
+            <file>file:/C:/Users/Harshad%200509/Documents/NetBeansProjects/EWasteManagement/src/com/ewaste/business/helper/Slice.java</file>
+            <file>file:/C:/Users/Harshad%200509/Documents/NetBeansProjects/EWasteManagement/src/com/ewaste/business/role/AccountantRole.java</file>
+            <file>file:/C:/Users/Harshad%200509/Documents/NetBeansProjects/EWasteManagement/src/com/ewaste/ui/userworkarea/SellEWastePanel.java</file>
+            <file>file:/C:/Users/Harshad%200509/Documents/NetBeansProjects/EWasteManagement/src/com/ewaste/business/organization/OrganizationDirectory.java</file>
+            <file>file:/C:/Users/Harshad%200509/Documents/NetBeansProjects/EWasteManagement/src/com/ewaste/ui/extraction/ExtractionAssignedTaskPanel.java</file>
+            <file>file:/C:/Users/Harshad%200509/Documents/NetBeansProjects/EWasteManagement/src/com/ewaste/ui/administrativerole/ManageUserAccountJPanel.java</file>
+            <file>file:/C:/Users/Harshad%200509/Documents/NetBeansProjects/EWasteManagement/src/com/ewaste/ui/accountant/AccountantReportsPanel.java</file>
+            <file>file:/C:/Users/Harshad%200509/Documents/NetBeansProjects/EWasteManagement/src/com/ewaste/ui/testingWorkArea/TestingAssignedTaskPanel.java</file>
+            <file>file:/C:/Users/Harshad%200509/Documents/NetBeansProjects/EWasteManagement/src/com/ewaste/business/network/Region.java</file>
+            <file>file:/C:/Users/Harshad%200509/Documents/NetBeansProjects/EWasteManagement/src/com/ewaste/ui/administrativerole/ManageOrganizationJPanel.java</file>
+            <file>file:/C:/Users/Harshad%200509/Documents/NetBeansProjects/EWasteManagement/src/com/ewaste/business/product/Product.java</file>
+        </group>
+    </open-files>
+</project-private>
